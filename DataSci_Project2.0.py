@@ -1025,12 +1025,5 @@ plt.show()
 sub.to_csv('submission.csv',index=False)
 sub
     
-    #For Catboost
-    
-    #For XGBoost
-    
-    #For SVR
-    
-    #For KNN
     
     
